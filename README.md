@@ -9,9 +9,8 @@
 
 <!--내용 부분-->
 <h3>✨ Tech Stack ✨</h3>
-<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
-<img src="https://img.shields.io/badge/react-20232a.svg?style=for-the-badge&logo=react&logoColor=61DAFB" />
 
+<img src="https://img.shields.io/badge/python-20232a.svg?style=for-the-badge&logo=python&logoColor=#3776AB" />
 
 
 
