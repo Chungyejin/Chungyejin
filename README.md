@@ -23,8 +23,10 @@
 
 
 <h3>🛠 Tools 🛠</h3>
-
-
+<div>
+  <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=#181717" />
+  <img src="https://img.shields.io/badge/intellijidea-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=#000000" />
+</div>
 
 
 
