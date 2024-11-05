@@ -1,6 +1,6 @@
-<div>
-  ![header](https://capsule-render.vercel.app/api?type=rounded&color=#da8ee7&height=200&section=header&text=WELCOME TO YEJIN'S GITHUB!&fontSize=70)
-</div>
+
+  <img src="https://capsule-render.vercel.app/api?type=rounded&color=#da8ee7&height=200&section=header&text=welcome to yejin's guthub!&fontSize=70" />
+
 ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chungyejin&show_icons=true&theme=radical)
 
 
