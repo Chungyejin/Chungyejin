@@ -1,5 +1,5 @@
 <!--타이틀 부분-->
-<div align="center">
+<div>
   WELCOME TO YEJIN'S GITHUB!
 </div>
 
@@ -9,7 +9,7 @@
 
 <!--내용 부분-->
 <h3>✨ Tech Stack ✨</h3>
-
+<img alt="Static Badge" src="https://img.shields.io/badge/:badgeContent">
 
 
 
