@@ -1,8 +1,7 @@
 
 ![header](https://capsule-render.vercel.app/api?
-type=rounded&color=#da8ee7&text=WELCOME TO YEJIN'S GITHUB!
-&height=200&section=headerfontSize=70)
-
+type=rounded&color=timeGradient&text=Welcome%20to%20Bi's%20GitHub%20👋
+&animation=twinkling&fontSize=40&fontAlignY=50&fontAlign=50&height=180)
 
 ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chungyejin&show_icons=true&theme=radical)
 
