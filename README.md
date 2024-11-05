@@ -3,7 +3,7 @@
   
 </div>
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
+![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=radical)
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
