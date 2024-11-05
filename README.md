@@ -1,6 +1,6 @@
 <!--타이틀 부분-->
 <div align="center">
-  
+  WELCOME TO YEJIN'S GITHUB!
 </div>
 
 
