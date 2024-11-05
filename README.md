@@ -26,6 +26,8 @@
 <div>
   <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=#181717" />
   <img src="https://img.shields.io/badge/intellijidea-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=#000000" />
+  <img src="https://img.shields.io/badge/pycharm-20232a.svg?style=for-the-badge&logo=pycharm&logoColor=#000000" />
+  
 </div>
 
 
