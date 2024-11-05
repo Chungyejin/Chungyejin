@@ -3,7 +3,9 @@
   
 </div>
 
-![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chungyejin&show_icons=true&theme=radical)
+<div align="center">
+  ![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chungyejin&show_icons=true&theme=radical)
+</div>
 
 <!--내용 부분-->
 <h3 align="center">✨ Tech Stack ✨</h3>
