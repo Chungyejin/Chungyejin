@@ -22,6 +22,7 @@
 <div>
   <img src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=#A8B9CC" />
   <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />
+  <img src="https://img.shields.io/badge/flutter-20232a.svg?style=for-the-badge&logo=flutterl&logoColor=#02569B" />
 </div>
 
 
