@@ -34,8 +34,6 @@
   
 </div>
 
-![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chungyejin&show_icons=true&theme=radical)
-
 
 <h3 ">📫 Contact 📫</h3>
 <div>
@@ -45,4 +43,8 @@
     
   </a>
 </div>
+
+
+
+![Yejin's GitHub stats](https://github-readme-stats.vercel.app/api?username=Chungyejin&show_icons=true&theme=radical)
 
