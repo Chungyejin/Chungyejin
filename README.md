@@ -39,6 +39,6 @@
 <div>
   <a href="mailto:yejintrabalho@gmail.comm">
     <img
-      src="https://img.shields.io/badge/yejintrabalho@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
+      src="https://img.shields.io/badge/yejinchung0913@gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>&nbsp
   </a>
 </div>
