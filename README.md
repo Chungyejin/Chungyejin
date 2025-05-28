@@ -21,9 +21,8 @@
 
 <h3>📚 Studying 📚</h3>
 <div>
-  <img src="https://img.shields.io/badge/c-20232a.svg?style=for-the-badge&logo=c&logoColor=#A8B9CC" />
-  <img src="https://img.shields.io/badge/mysql-20232a.svg?style=for-the-badge&logo=mysql&logoColor=#4479A1" />
- 
+  <img src="https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white" />
+  <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white" />
 </div>
 
 
