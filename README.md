@@ -1,4 +1,4 @@
-<h1>Yejin's Github</h1>
+<h1>Welcome to Yejin's Github!</h1>
 
 <h3>✨ Tech Stack ✨</h3>
 
