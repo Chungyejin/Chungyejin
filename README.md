@@ -2,8 +2,8 @@
 
 <h3>✨ About me✨</h3>
 <div>
-    PUCPR Computer Science Student (5/8)
-    Sookmyung Woman's University Exchange Student (2025.03~ ) 
+   <t> PUCPR Computer Science Student (5/8)</t>
+   <a> Sookmyung Woman's University Exchange Student (2025.03~ ) </a>
 </div>
 
 
