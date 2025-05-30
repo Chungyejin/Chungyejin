@@ -6,7 +6,7 @@
       - Sookmyung Woman's University Exchange Student (2025.03 ~ 2025.12 )
 </div>
 
-<h2>💻 Tech Stack</h2>
+<h3>💻 Tech Stack</h3>
 
 <table>
   <tr>
@@ -14,10 +14,10 @@
     <th>Skills</th>
   </tr>
   <tr>
-    <td>Language</td>
+    <td>FRONT-END</td>
     <td>
-      <span style="display:inline-block;border:1px solid #ccc;border-radius:5px;padding:5px 10px;margin:2px;">JavaScript</span>
-      <span style="display:inline-block;border:1px solid #ccc;border-radius:5px;padding:5px 10px;margin:2px;">Python</span>
+     <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
+    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />  
     </td>
   </tr>
   <tr>
@@ -29,12 +29,9 @@
   </tr>
 </table>
 
-<h3>✨ Tech Stack ✨</h3>
-
-<h5>FRONT-END</h5>
+<h5></h5>
 <div>
-    <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
-    <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />  
+    
 </div>
 
 <h5>BACK-END</h5>
