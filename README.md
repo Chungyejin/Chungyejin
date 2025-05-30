@@ -13,7 +13,7 @@
     <th>Category</th>
     <th>Skills</th>
   </tr>
-  <tr>
+ <tr>
     <td>FRONT-END</td>
     <td>
      <img src="https://img.shields.io/badge/HTML-239120?style=for-the-badge&logo=html5&logoColor=white" />
@@ -34,9 +34,17 @@
       <span style="display:inline-block;border:1px solid #ccc;border-radius:5px;padding:5px 10px;margin:2px;">Next.js</span>
     </td>
   </tr>
+
+<tr>
+    <td>TOOLS</td>
+    <td>
+      <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=#181717" />
+        <img src="https://img.shields.io/badge/intellijidea-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=#000000" />
+        <img src="https://img.shields.io/badge/pycharm-20232a.svg?style=for-the-badge&logo=pycharm&logoColor=#000000" />
+        <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
+    </td>
+  </tr>
 </table>
-
-
 
 <h3>📚 Studying 📚</h3>
 <div>
@@ -45,19 +53,6 @@
   <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 
 </div>
-
-
-
-
-<h3>🛠 Tools 🛠</h3>
-<div>
-  <img src="https://img.shields.io/badge/github-20232a.svg?style=for-the-badge&logo=github&logoColor=#181717" />
-  <img src="https://img.shields.io/badge/intellijidea-20232a.svg?style=for-the-badge&logo=intellijidea&logoColor=#000000" />
-  <img src="https://img.shields.io/badge/pycharm-20232a.svg?style=for-the-badge&logo=pycharm&logoColor=#000000" />
-  <img src="https://img.shields.io/badge/VSCode-2C2C32.svg?style=for-the-badge&logo=visual-studio-code&logoColor=22ABF3" />
-  
-</div>
-
 
 <h3 ">📫 Contact 📫</h3>
 <div>
