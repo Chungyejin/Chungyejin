@@ -6,7 +6,7 @@
       - Sookmyung Woman's University Exchange Student (2025.03 ~ 2025.12 )
 </div>
 
-<h3>💻 Tech Stack</h3>
+<h3>💻 Tech Stack 💻</h3>
 
 <table>
   <tr>
