@@ -1,6 +1,11 @@
 <h1>Welcome to Yejin's Github!</h1>
 
-<h3> About me </h3>
+<h3>✨ About me✨</h3>
+<div>
+    PUCPR Computer Science Student (5/8)
+    Sookmyung Woman's University Exchange Student (2025.03~ ) 
+</div>
+
 
 <h3>✨ Tech Stack ✨</h3>
 
