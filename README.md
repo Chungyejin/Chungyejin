@@ -20,6 +20,13 @@
     <img src="https://img.shields.io/badge/CSS-239120?&style=for-the-badge&logo=css3&logoColor=white" />  
     </td>
   </tr>
+<tr>
+    <td>BACK-END</td>
+    <td>
+      <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+      <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
+    </td>
+</tr>
   <tr>
     <td>Framework</td>
     <td>
@@ -28,17 +35,6 @@
     </td>
   </tr>
 </table>
-
-<h5></h5>
-<div>
-    
-</div>
-
-<h5>BACK-END</h5>
-<div>
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=JavaScript&logoColor=white" />
-</div>
 
 
 
