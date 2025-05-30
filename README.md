@@ -1,5 +1,7 @@
 <h1>Welcome to Yejin's Github!</h1>
 
+<h3> About me </h3>
+
 <h3>✨ Tech Stack ✨</h3>
 
 <h5>FRONT-END</h5>
