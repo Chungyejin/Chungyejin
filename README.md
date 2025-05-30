@@ -28,10 +28,9 @@
     </td>
 </tr>
   <tr>
-    <td>Framework</td>
+    <td>DATABSE</td>
     <td>
-      <span style="display:inline-block;border:1px solid #ccc;border-radius:5px;padding:5px 10px;margin:2px;">React</span>
-      <span style="display:inline-block;border:1px solid #ccc;border-radius:5px;padding:5px 10px;margin:2px;">Next.js</span>
+      <img src="https://img.shields.io/badge/MySQL-#4479A1?style=for-the-badge&logo=mysql&logoColor=white">
     </td>
   </tr>
 
