@@ -6,6 +6,28 @@
       - Sookmyung Woman's University Exchange Student (2025.03 ~ 2025.12 )
 </div>
 
+<h2>💻 Tech Stack</h2>
+
+<table>
+  <tr>
+    <th>Category</th>
+    <th>Skills</th>
+  </tr>
+  <tr>
+    <td>Language</td>
+    <td>
+      <span style="display:inline-block;border:1px solid #ccc;border-radius:5px;padding:5px 10px;margin:2px;">JavaScript</span>
+      <span style="display:inline-block;border:1px solid #ccc;border-radius:5px;padding:5px 10px;margin:2px;">Python</span>
+    </td>
+  </tr>
+  <tr>
+    <td>Framework</td>
+    <td>
+      <span style="display:inline-block;border:1px solid #ccc;border-radius:5px;padding:5px 10px;margin:2px;">React</span>
+      <span style="display:inline-block;border:1px solid #ccc;border-radius:5px;padding:5px 10px;margin:2px;">Next.js</span>
+    </td>
+  </tr>
+</table>
 
 <h3>✨ Tech Stack ✨</h3>
 
