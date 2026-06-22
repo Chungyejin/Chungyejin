@@ -6,7 +6,6 @@
   <li>🔬 <b>Project Assistant</b> at PIBITI (MAI-DAI) (Sep 2023 ~ Aug 2024)</li>
   <li>🌏 <b>Exchange Student</b> at Sookmyung Women's University, South Korea (Mar 2025 ~ Dec 2025)</li>
   <li>💼 <b>Backend Engineer Intern</b> at Nexum IOT (May 2026 ~ Present)</li>
-  <li>🚀 Aspiring Backend Engineer focused on building scalable, efficient, and well-documented systems.</li>
 </ul>
 
 <h3>💻 Tech Stack 💻</h3>
