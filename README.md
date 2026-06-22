@@ -3,8 +3,9 @@
 <h3>❤️ About Me ❤️</h3>
 <ul>
   <li>🎓 <b>Computer Science Student</b> at PUCPR (7/8 Semesters)</li>
-  <li>🌏 <b>Exchange Student</b> at Sookmyung Women's University, South Korea (Mar 2025 ~ Dec 2025)</li>
   <li>🔬 <b>Project Assistant</b> at PIBITI (MAI-DAI) (Sep 2023 ~ Aug 2024)</li>
+  <li>🌏 <b>Exchange Student</b> at Sookmyung Women's University, South Korea (Mar 2025 ~ Dec 2025)</li>
+  <li>💼 <b>Backend Engineer Intern</b> at Nexum IOT (May 2026 ~ Present)</li>
   <li>🚀 Aspiring Backend Engineer focused on building scalable, efficient, and well-documented systems.</li>
 </ul>
 
