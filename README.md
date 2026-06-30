@@ -56,7 +56,7 @@
 
 <h3>📚 Studying 📚</h3>
 <div>
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white" />
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
 </div>
 
 <h3>📫 Contact </h3>
