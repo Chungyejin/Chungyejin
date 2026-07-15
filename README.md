@@ -27,7 +27,6 @@
     <td>
       <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white" />
       <img src="https://img.shields.io/badge/PostgreSQL-4169E1?style=for-the-badge&logo=postgresql&logoColor=white" />
-      <img src="https://img.shields.io/badge/pgAdmin-336791?style=for-the-badge&logo=pgadmin&logoColor=white" />
     </td>
   </tr>
   <tr>
