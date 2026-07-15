@@ -19,7 +19,7 @@
     <td><b>BACK-END</b></td>
     <td>
       <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-      <img src="https://img.shields.io/badge/Javat-F7DF1E?style=for-the-badge&logo=Java&logoColor=black" />
+      <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
     </td>
   </tr>
   <tr>
